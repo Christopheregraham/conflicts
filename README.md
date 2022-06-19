@@ -1,3 +1,3 @@
 # conflicts
 
-testing conflicts
+teing conflicts
